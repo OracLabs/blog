@@ -21,19 +21,16 @@ timezone: America/NYC
 
 title: Orac                         # the main title
 
-tagline: Machine learning for real time data   # it will display as the sub-title
+tagline: Machine learning for real time data streams   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Machine learning for real time data
+  Machine learning for real time data streams
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://oraclabs.github.io'
 
 github:
-  username: SioMcNamara             # change to your github username
-
-#twitter:
-#  username: twitter_username            # change to your twitter username
+  username: OracLabs             # change to your github username
 
 social:
   # Change to your full name.
@@ -45,7 +42,7 @@ social:
     - https://github.com/OracLabs       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/company/orac-labs/
+    - https://www.linkedin.com/company/orac-labs/
 
 google_site_verification:               # fill in to your verification string
 
