@@ -12,8 +12,6 @@ Orac is the first solution to optimize model training, experiementation and depl
 
 ## Real time data 
 
-![flowing-particles](flowing-particles.jpg){: w="50" h="100" }
-
 The vast majority of MLOps solutions are designed for batch processes where models must be trained offline rather than in real time. Yet,real time data streams underly some of our most valued applications, such as fraud detection, network classification, IOT, e-commerce, streaming entertainment, social, etc. 
 
 
