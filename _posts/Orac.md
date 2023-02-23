@@ -1,7 +1,7 @@
 ---
 title: Orac
-date: 2023-02-17
-categories: [blog]
+date: 2023-02-23
+categories: [online machine learning, platform, product]
 tags: [online machine learning, real time data, streaming data, orac]
 ---
 
