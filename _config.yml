@@ -76,7 +76,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: black-gold-logo.png
+avatar: favicon-black-gold-logo.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
