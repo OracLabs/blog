@@ -18,7 +18,9 @@ timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
+plugins:
+  - jekyll-seo-tag
+  
 title: Orac                         # the main title
 
 tagline: Machine learning platform for real time data streams   # it will display as the sub-title
