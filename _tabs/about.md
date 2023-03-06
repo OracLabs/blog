@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Flowing particles as a data stream](/blue-particles-swirling.jpg){:height="300px" width="2000px"}
-
-<br/>
 
 Orac is the first platform specialized for machine learning in real time data environments. We enable a single end to end workflow for feature development, model training, experimentation, deployment and monitoring on a real time data stream.
 
