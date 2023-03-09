@@ -7,7 +7,7 @@ categories: [Online machine learning, Presentation]
 tags: [online machine learning, real time data, streaming data, orac]
 youtubeId: ZVolLWGWukM
 img: lse.png
-alt: "LSE logo"
+alt: LSE logo
 ---
 
 ![LSE logo](/lse.png){:height="100px" width="150px"}
