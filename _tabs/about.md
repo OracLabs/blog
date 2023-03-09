@@ -6,16 +6,4 @@ order: 4
 
 Orac is the first platform specialized for machine learning in real time data environments. We enable a single end to end workflow for feature development, model training, experimentation, deployment and monitoring on a real time data stream.
 
-
-## Real time data
-
-The vast majority of MLOps solutions are designed for batch processes where models must be trained offline rather than in real time. Yet real time data streams underlie some of our most valued applications, such as fraud detection, network classification, IOT, e-commerce, streaming entertainment, social, financial forecasting, etc. It has become simple and cost effective to build real time data processing with the emergence of many SaaS solutions in recent years. The efficiency gains, improved product offerings and competitive pressures are driving ever more applications to build on real time data. Machine learning capabilities remain a step behind. 
-
-
-## Traditional machine learning
-In a traditional batch process a model learns based on a sample of historical data and is then deployed to make inferences on the stream. This first model never performs at the necessary standard. An iterative process of live testing and returning to batch sample training is necessary to raise the model’s accuracy. This first pass is a laborious and time consuming process. Even once performance standards are met and a model is deployed, changing patterns on the stream can very quickly make models obsolete. 
-
-Furthermore - static models trained on historical data cannot be deployed in some use cases that require a dynamic response (e.g. campaign detection such as the Game Stop rally, early exit triggered by anomaly detection during manufacturing). Other use cases in real time environments that are currently serviced by batch trained models would see far better outcomes if dynamic training was possible. In short, building batch models offline and in a disjointed testing framework invariably results in models that fall out of date and require laborious maintenance. 
-
-## Orac
 With Orac a model can be launched directly from a notebook and continues learning based on real time data. A model’s performance can be monitored as it continuously learns in a safe sandbox where multiple models can be A/B tested in real time. From there a model that is performing well can be deployed to production. This model impacting customers does not learn (to prevent unforeseen outcomes) but a copy in the sandbox continues to update and can be deployed at any time. Thus with Orac, models never fall out of date and there is no need to retrain as models continue to update and learn. The flexibility inherent in Orac’s design frees data scientists to experiment with radical hypotheses and know with certainty how a model will impact customers, ensuring continuous safe production deployments.
