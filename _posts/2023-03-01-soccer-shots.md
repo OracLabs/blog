@@ -8,7 +8,8 @@ tags: [online machine learning, real time data, streaming data, orac]
 youtubeId: uFC0YgpsVb8
 img: arsenal.jpeg
 ---
-![Flowing particles as a data stream](/arsenal.jpeg){:height="200px" width="400px"}
+![Arsenal v Chelsea](/arsenal.jpeg){:height="200px" width="400px"}
+alt="Arsenal v Chelsea 2003"
 
 # Predicting shots on goal in real time
 
