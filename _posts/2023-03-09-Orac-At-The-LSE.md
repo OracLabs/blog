@@ -9,6 +9,6 @@ youtubeId: ZVolLWGWukM
 img: lse.png
 ---
 
-![LSE logo](/lse.png#left){:height="100px" width="150px"}
+![Flowing particles as a data stream](/lse.png){:height="100px" width="150px"}
 
 {% include lseyoutube.html id=page.ZVolLWGWukM %}
