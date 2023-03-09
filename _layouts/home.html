@@ -47,7 +47,8 @@ layout: page
     </h1>
     <div>
       <br/>
-      <a href="{{ post.url | relative_url }}" ><img src="{{ post.img }}" ><img alt="{{ post.img.alt}} />
+      <a href="{{ post.url | relative_url }}" ><img src="{{ post.img }}"/>
+      {% capture alt %}alt="{{ post.image.alt | default: "Preview Image" }}"{% endcapture %}
       <br/>
     </div>
 
