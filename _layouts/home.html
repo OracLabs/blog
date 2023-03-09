@@ -45,10 +45,9 @@ layout: page
     <h1>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>
-
     <div>
       <br/>
-      <a href="{{ post.url }}" ><img src="{{ post.img }}" />
+      <a href="{{ post.url | relative_url }}" ><img src="{{ post.img }}" ><img alt="{{ post.img.alt}} />
       <br/>
     </div>
 
